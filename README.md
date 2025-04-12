@@ -3,3 +3,4 @@
 <hr/>
 
 ![Result 1](https://github.com/ykamoji/image-merge-homography/blob/main/img_refs/result_1.png?raw=true)
+![Result 2](https://github.com/ykamoji/image-merge-homography/blob/main/img_refs/result_2.png?raw=true)
